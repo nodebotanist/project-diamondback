@@ -1,0 +1,24 @@
+{
+  "name": "project-diamondback",
+  "version": "1.0.0",
+  "description": "A Gatsby 5 site that shows baseball data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebotanist/project-diamondback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodebotanist/project-diamondback/issues"
+  },
+  "homepage": "https://github.com/nodebotanist/project-diamondback#readme",
+  "dependencies": {
+    "gatsby": "^5.0.0-next.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
