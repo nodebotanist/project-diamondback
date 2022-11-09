@@ -3,7 +3,7 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <div>
-      <h1>Project Diamondback</h1>
+      <h1 className="text-3xl font-bold underline">Project Diamondback</h1>
     </div>
   )
 }
